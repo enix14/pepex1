@@ -31,7 +31,7 @@ git clone git@github.com:arturzxc/myapex.git
 2. Go inside the downloaded folder
 
 ```
-cd myapex
+cd pepex1
 ```
 
 3. Compile the code 
